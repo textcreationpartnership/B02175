@@ -1,0 +1,651 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Articulau neu byngciau. A gyttunwyd arnynt gan archescobion ac escabion y ddwy dalaith, a'r holl Eglwyswyr, yn y gymansa a gynnhaliwyd yn Llundam ...</title>
+            <author>Church of England.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1665</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 32 KB of XML-encoded text transcribed from 14 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B02175</idno>
+            <idno type="STC">Wing C4091AB</idno>
+            <idno type="STC">ESTC R173854</idno>
+            <idno type="EEBO-CITATION">53298998</idno>
+            <idno type="OCLC">ocm 53298998</idno>
+            <idno type="VID">179775</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B02175)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 179775)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2802:19)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Articulau neu byngciau. A gyttunwyd arnynt gan archescobion ac escabion y ddwy dalaith, a'r holl Eglwyswyr, yn y gymansa a gynnhaliwyd yn Llundam ...</title>
+                  <author>Church of England.</author>
+               </titleStmt>
+               <extent>[27] p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London? :</pubPlace>
+                  <date>1665?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Running title: Pingciau. Crefydd</note>
+                  <note>At head of p. [1]: Imprimatur. Ex æd. Londinens. Decemb.15 1664. Joh. Hall. Rev in Christo Pat. Dom. Humpf. Epilc. Lond. a Sac. Domest.</note>
+                  <note>Attribution, place and date of publication suggested by Wing (2nd ed.).</note>
+                  <note>Initial letter. Some text in black letter.</note>
+                  <note>Reproduction of original in: National Library of Wales.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="wel">wel</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Church of England --  Customs and practices --  Early works to 1800.</term>
+               <term>Wales --  Church history --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-10</date>
+            <label>Jayne Henley</label>Sampled and proofread</change>
+         <change>
+            <date>2010-10</date>
+            <label>Jayne Henley</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="wel">
+      <front>
+         <div xml:lang="lat" type="license">
+            <div type="approbation">
+               <pb facs="tcp:179775:1"/>
+               <p>Haec tranſlatio <hi>Cambro.-Britannica</hi> Articu<g ref="char:EOLhyphen"/>lorum
+Fidei &amp; Religionis in Eccleſia An<g ref="char:EOLhyphen"/>glicanâ receptorum
+Concordat cum Editio<g ref="char:EOLhyphen"/>nibus Latina &amp; Anglicanâ,
+facta fideli col<g ref="char:EOLhyphen"/>lationi, per,</p>
+               <closer>
+                  <signed>Geo. Aſaphen.</signed>
+               </closer>
+            </div>
+            <div type="imprimatur">
+               <p>IMPRIMATUR.</p>
+               <closer>
+                  <dateline>Ex aed. <hi>Londinenſ.</hi>
+                     <date>
+                        <hi>Decemb.</hi> 15. 1664.</date>
+                  </dateline>
+                  <signed>Joh. Hall. <hi>Rev. in Chriſto Pat. Dom. Humpf. Epiſc.</hi> Lond.
+<hi>a Sac. Domeſt.</hi>
+                  </signed>
+               </closer>
+            </div>
+         </div>
+      </front>
+      <body>
+         <div type="Thirty-nine_articles">
+            <pb facs="tcp:179775:1"/>
+            <head>ARTICULAU NEU BYNGCIAU.</head>
+            <head type="sub">A gyttunwyd arnynt gan Archeſcobion ac Eſcabion y Ddwy Dalaith, a'r holl Eglwyſwyr, yn y Gymmanfa a gynnhaliwyd yn <hi>Llundain,</hi> yn y flwyd<g ref="char:EOLhyphen"/>dyn o oedran ein Harglwydd Dduw, 1562, yn ol cyfrif Eglwys Loegr, er mwyn gochelyd ymrafael o<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>inionau, ac er ca<g ref="char:EOLhyphen"/>darnhau cyſsondeb ynghylch gwir grefydd.</head>
+            <byline>Wedi eu cyfiaithu yn Gymroaeg gan <hi>I.D.S.T.P.</hi>
+            </byline>
+            <head>Pyngciau Crefydd.</head>
+            <div n="1" type="article">
+               <head>1. Am ffydd yn y Drindod Sanctaidd.</head>
+               <p>
+                  <seg rend="decorInit">N</seg>Id oes ond un bywiol a gwir Dduw, tragy<g ref="char:EOLhyphen"/>wyddol, heb gorph, heb na rhannau na di<g ref="char:EOLhyphen"/>oddefiadau, o anfeidrol allu, a doethineb, a daioni, gwneuthurwr a chynnhaliwr pob peth gweledig ac anweledig. Ac yn undod y Duwdod ymma, y mae tri Pherſon, o un ſylwedd a gallu, a thragywyddoldeb, Y Tad, Y Mab, a'r Yſpryd glan.</p>
+            </div>
+            <div n="2" type="article">
+               <pb facs="tcp:179775:2"/>
+               <head>2. Am y Gair, neu Fab Duw, yr hwn a wnaethpwyd yn wir ddyn.</head>
+               <p>Y Mab, yr hwn yw gair y Tad, ac a genhedlwyd er yn dragywyddol gan y Tad, gwir a thragywyddol Dduw, o un ſylwedd a'r Tad; a gymmerodd natur dyn yngrhoth y fendigedig forwyn, o'i ſylwedd hi: fel y mae dwy natur berfaith gyfangwbl, hynny yw, Y Duwdod a'r dyndod, wedi eu cyſſyll tu ynghyd yn un Perſon, ni wahenir byth, o'r rhai y mae un Chriſt, gwir Dduw a gwir ddyn; yr hwn a wir<g ref="char:EOLhyphen"/>ddioddefodd, a groe<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>-hoeliwyd, a fu farw ac a gladdwyd, i gymmodi ei Dad a nyni; ac i fod yn aberth, nid yn unig tros evogrwydd pechod cynhwynol, ond hefyd tros holl wei<g ref="char:EOLhyphen"/>thredol bechodau dynion.</p>
+            </div>
+            <div n="3" type="article">
+               <head>3. Am ddiſcyniad Chriſt i Uffern.</head>
+               <p>MEgis y bu Chriſt fa<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>w droſom, ac y claddwyd ef, felly y mae yn rhaid credu iddo fyned i wared i Vffern.</p>
+            </div>
+            <div n="4" type="article">
+               <head>4. Am Adgyfodiad Chriſt.</head>
+               <p>CHriſt a wir-gyfododd drachefn o farwolaeth, ac a gym<g ref="char:EOLhyphen"/>merodd drachefn ei gorph, gyda chnawd ac eſcyrn, a phob peth a berthyni berffeithrwydd naturiaeth dyn, a'r hyn y derchafodd ef i'r nefoedd, ac yno y mae yn eiſtedd hyd oni ddychwelo i farnu pob dyn y dydd diweddaf.</p>
+            </div>
+            <div n="5" type="article">
+               <head>5. Am yr Yſpryd glan.</head>
+               <p>YR Yſpryd glan, yr hwn ſydd yn deilliaw oddiwrth y Tad a'r Mab, ſydd o un ſylwedd, mawrhydi a gogoniant gy<g ref="char:EOLhyphen"/>da'r Tad a'r Mab, yn wir ac yn dragwyddol Dduw.</p>
+            </div>
+            <div n="6" type="article">
+               <head>6. Bod yr Scrythur lan yn ddigonol i Jechydwriaeth.</head>
+               <p>Y Mae yr Scrythur lan yn cynnwys pob peth angenrhei<g ref="char:EOLhyphen"/>diol i Iechydwriaeth: megis am ba beth bynnag ni ddarllennier yn thi, neu na eller ei brofi wrthi, nid ydys yn
+<pb facs="tcp:179775:2"/>
+gofyn bod i neb ei gredu, megis pwngc o'r ffydd, na'i fod yn angenrhaid i Iechydwriath; Dan enw yr Scrythur lan yr yd<g ref="char:EOLhyphen"/>ym yn deall y Cyfryw lyfrau Canonaidd o'r hen Deſtament a'r Newydd, ac ni bu erioed ddim ammau yn yr Eglwys am eu hawdurdod,</p>
+               <list>
+                  <head>Enwau a rhifedi y Llyfrau Canonaidd.</head>
+                  <item>
+                     <hi>GEneſis.</hi>
+                  </item>
+                  <item>
+                     <hi>Exodus.</hi>
+                  </item>
+                  <item>
+                     <hi>Leviticus.</hi>
+                  </item>
+                  <item>
+                     <hi>Numeri.</hi>
+                  </item>
+                  <item>
+                     <hi>Deuteronomium.</hi>
+                  </item>
+                  <item>
+                     <hi>Joſuah.</hi>
+                  </item>
+                  <item>
+                     <hi>Barnwyr.</hi>
+                  </item>
+                  <item>
+                     <hi>Ruth.</hi>
+                  </item>
+                  <item>
+                     <hi>Llyfr cyntaf Samuel.</hi>
+                  </item>
+                  <item>
+                     <hi>Ail Llyfr Samuel.</hi>
+                  </item>
+                  <item>
+                     <hi>Llyfr cyntaf y Brenhinoedd.</hi>
+                  </item>
+                  <item>
+                     <hi>Ail Llyfr y Brenhinoedd.</hi>
+                  </item>
+                  <item>
+                     <hi>Y Llyfr cyntaf o'r Cronicl.</hi>
+                  </item>
+                  <item>
+                     <hi>Yr ail llyfr o'r Cronicl.</hi>
+                  </item>
+                  <item>
+                     <hi>Llyfr cyntaf Eſdras.</hi>
+                  </item>
+                  <item>
+                     <hi>Ail llyfr Eſdras.</hi>
+                  </item>
+                  <item>
+                     <hi>Llyfr Heſter.</hi>
+                  </item>
+                  <item>
+                     <hi>Llyfr Job.</hi>
+                  </item>
+                  <item>
+                     <hi>Y Pſalmau.</hi>
+                  </item>
+                  <item>
+                     <hi>Y Diharebion.</hi>
+                  </item>
+                  <item>
+                     <hi>Eccleſiaſtes, neu y Pregeth-wr</hi>
+                  </item>
+                  <item>
+                     <hi>Cantica, neu Ganiadau Solo<g ref="char:EOLhyphen"/>mon.</hi>
+                  </item>
+                  <item>4 <hi>Prophwydi mwyaf.</hi>
+                  </item>
+                  <item>12 <hi>Prophwydi lleiaf.</hi>
+                  </item>
+               </list>
+               <p>A'r llyfrau eraill (fel y dyweid <hi>Hierom</hi>) y mae'r Eglwys yn eu darllein er Sſiampl buchedd ac addyſc moeſau: ond nid yw yn eu goſod hwy i ſicerhau un athrawiaeth, Y cyfryw yw y rhai Sydd yn canlyn.</p>
+               <list>
+                  <item>
+                     <hi>Trydcdd llyfr Eſdras.</hi>
+                  </item>
+                  <item>
+                     <hi>Pedwerydd llyfr Eſdras.</hi>
+                  </item>
+                  <item>
+                     <hi>Llyfr Tobias.</hi>
+                  </item>
+                  <item>
+                     <hi>Llyfr Judith.</hi>
+                  </item>
+                  <item>
+                     <hi>Y Darn arall o llyfr Heſter.</hi>
+                  </item>
+                  <item>
+                     <hi>Llyfr y Doethineb.</hi>
+                  </item>
+                  <item>
+                     <hi>Llyfr Jeſu fab Sirach.</hi>
+                  </item>
+                  <item>
+                     <hi>Barnch y Prophwyd.</hi>
+                  </item>
+                  <item>
+                     <hi>Can y tri llangc.</hi>
+                  </item>
+                  <item>
+                     <hi>Hiſtori Suſanna.</hi>
+                  </item>
+                  <item>
+                     <hi>Hiſtori Bel a'r Ddraig.</hi>
+                  </item>
+                  <item>
+                     <hi>Gweddi Manaſes.</hi>
+                  </item>
+                  <item>
+                     <hi>Llyfr cyntaf y Machabæaid.</hi>
+                  </item>
+                  <item>
+                     <hi>Ail llyfrr y Machabæaid.</hi>
+                  </item>
+               </list>
+               <p>Holl lyfrau y Teſtament Newydd, fel yr ydys yn gyffre<g ref="char:EOLhyphen"/>din yn eu derbyn hwy, yr ydym ni yn eu derbyn, ac yn eu cylrif yn Ganonaidd.</p>
+            </div>
+            <div n="7" type="article">
+               <head>7. Am yr hen Deſtament.</head>
+               <p>NId yw'r hen Deſtament wrthwyneb i'<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Newydd oble<g ref="char:EOLhyphen"/>gid yn yr hen Deſtament a'r newydd y cynnygir bywyd
+<pb facs="tcp:179775:3"/>
+tragywyddol i ddyn trwy Chriſt, yr hwn yw'r unig gyfryn<g ref="char:EOLhyphen"/>gwr rhwng Duw a dyn, ac ef yn Dduw ac yn ddyn. Am hynny nid iawn gwrando fluant y rhai ſy'n tybied nad oedd yr hen dadau yn diſgwyl ond am addewidion trangcedig. Er nad yw'r gyfraith a roddwyd oddiwrch Dduw trwy <hi>Moſes,</hi> hyd y perthyn i Ceremoniau a chynneddfau, yn rhwymo Cri<g ref="char:EOLhyphen"/>ſtianogion, ac nad yw anghenrhaid derbyn ei gorchymmyni<g ref="char:EOLhyphen"/>on hi am lywodraeth bydol mewn un wlad; er henny nid oes un Chriſtian yn rhydd oddiwrth u'ydd-dod i'r gorihinyn<g ref="char:EOLhyphen"/>nion a elwir moeſawl.</p>
+            </div>
+            <div n="8" type="article">
+               <head>8. Am y tair Credo.</head>
+               <p>Y Tair Credo, ſef Credo <hi>Nicaea,</hi> Credo <hi>Athanaſius,</hi> a'r hon a elwir yn gyffredin Credo yr <hi>Apoſtolion,</hi> a ddylid yn gwbl eu derbyn a'u Credu: oblegid fe ellir eu profi hwy trwy ddiddadl warrantrwydd yr Scrythur lan.</p>
+            </div>
+            <div n="9" type="article">
+               <head>9. Am bechod cynhwynol, neu be<g ref="char:EOLhyphen"/>chod cynenid.</head>
+               <p>PEchod dechreuol nid yw yn ſefyll o ddilyn <hi>Adda</hi> (megis yr ofer ſtarad y <hi>Pelagiaid,</hi>) eithr bai a llygredigaeth na<g ref="char:EOLhyphen"/>tur pob dyn ydyw, a'r a genhedlir yn naturiol o hil <hi>Adda;</hi> trwyr hwn y mae dyn wedi myned yn dra phell oddiwrth gyſiannder dechrevol, ac o'i naturiaeth ei hun, a'i ddychwant ar ddrygioni, megis y mae'r cnawd bob amſer yn chwenny<g ref="char:EOLhyphen"/>chu yn erbyn yr Yſpryd; ac am hynny ym-mhob dyn a enir ir byd hwn, yr haedda ddigofaint Duw, a damnedigaeth. Ac y mae'r llwgr ymma a'r naturiaeth yn aros, ie yil y rhai a adgenhedlwyd: O blegid, hynny nid yw chwant y enawd, a elwir yn Groeg <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. yr hyn a ddeongl rhai doethineb [y cnawd] rhai gwyn, rhai tuedd, rhai chwant y cnawd yn ddaroſtyngedig i gyfraith Dduw. Ac er nad oes damnedigaeth i'r rhai o gredant ac a fedyddir: etto y mae'r Apoſtol yn cyfaddef fod mewn gwyn a thrachwant, o ho<g ref="char:EOLhyphen"/>naw ei hun, naturiaeth pechod.</p>
+            </div>
+            <div n="10" type="article">
+               <pb facs="tcp:179775:3"/>
+               <head>10. Am Rydd Ewyllys.</head>
+               <p>CYfryw yw cy<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>lwr dyn wedi cwymp <hi>Adda,</hi> ac nas gall nac ymchwelyd nac ymddarparu i ffydd, ac i alw ar Dduw o'i nerth naturiol a'i weithredoedd da ei hun: O her<g ref="char:EOLhyphen"/>wydd pa ham, nid oes gennym ni allu i wneuthur gweithre<g ref="char:EOLhyphen"/>doedd da a fo hoff a chymmeradwy gan Dduw, oni bydd gras Dduw trwy Chriſt yn ein rhagflaenu in, fel y bo ynom in ewyllys da; ac yn cyd-weithio gyda ni wedi y del ynom yr ewyllys da hwnnw.</p>
+            </div>
+            <div n="11" type="article">
+               <head>11. Am gyfiawnhad dyn.</head>
+               <p>NI a gyfrifir yn gyfiawn ger, bron Duw, yn unig trwy haeddedigaethau ein Horglwydd a'n Achybwr Ieſu Chriſt, trwy flydd; nid o herwydd ein gweithredoedd, neu ein haeddedigaethau ein hunain. Am hynny, Athrawiaeth gwbl jachus, dra-llawn o ddiddanwch, yw, Mai trwy ffydd yn vnig in cyfiawnheir in, fel yr yſpyſſir yn hetaethach yn yr Homili am Gyfiawnhad,</p>
+            </div>
+            <div n="12" type="article">
+               <head>12. Am weithredoedd da.</head>
+               <p>ER nas dichon gweithredoedd da, y rhai yw ffrwyth ffydd, ac ſydd yn dyfod ar ol cyfiawn had, dynnu ymmacth ein pechodau ni, a goddef eithaf cyfiawn-farn Duw; etto maent hwy'n fodlon ac yn gymmeradwy gan Dduw yng Hriſt; ac yn tarddu yn anghentheidiol allan o wir a bywiol ffydd, yn gymmaint ac y gellir wrthynt hwy adnabod ffydd fywiol, mor amwg ac y gellir adnabod y pren wrth y ffrwyth.</p>
+            </div>
+            <div n="13" type="article">
+               <head>13. Am weithredoedd o flaen cyfiawnhad.</head>
+               <p>GWeithredoedd a wneler cyn [cael] gras Chriſt, ac yſ<g ref="char:EOLhyphen"/>prydoliaeth ei Ypryd ef, nid ydynt yn b<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>dloni Duw, yn gymmaint ac nad ydynt hwy yn tarddu allan o ffydd yn Ieſu Griſt; ac nid ydynt ychwaith yn gwneuthur dynion yn add<g ref="char:EOLhyphen"/>as, i dderbyn gras, neu (fel y dywaid yr Yſcol-ddifein-wyr) yn haeddu gras o gymmheſurwydd: eithr yn hytrach, am nad ydys yn eu gwneuthur hwy megis yr ewyllyfiodd ac y
+<pb facs="tcp:179775:4"/>
+gorchymmynnodd Duw eu gwneuthur hwy, nid ydym ni yn ammau nad oes natur pechod ynddynt.</p>
+            </div>
+            <div n="14" type="article">
+               <head>14. Am weithredoedd gyd ag a orchym<g ref="char:EOLhyphen"/>mymnwyd.</head>
+               <p>GWeithredoedd o ewyllys dyn ei hun, heb law a thros ben gorchymmynndon Duw, y rhai a alwant yn wei<g ref="char:EOLhyphen"/>thredoedd Supe<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>erogatori, ni ellir heb ryfyg ac an-nuwioldeb eu dyſcn. Oblegid trwyddynt hwy y mae dynion yn dangos eu bod hwy yn talu i Dduw, nid yn unig cymmaint ac y maent hwy yn rhwymedig i'w gwneuthur, ond eu bod yn gwneuthur er ei fwyn ef mwy nag ſydd anghenrhaid wrth rwymedig ddled: lle y mae Chriſt yn dywedyd yn oleu, Gwedii chwi wneuthur y cwbl oll ac a orchymynwyd i chwi, dywedwch, Gweiſion anfuddiol ydym.</p>
+            </div>
+            <div n="15" type="article">
+               <head>15. Am Ghriſt yn unig yn ddibechod.</head>
+               <p>CHriſt yngwirionedd ein naturiaeth ni, a wnaethpwyd yn gyffelyb i ni ym-mhob peth, ond pechod yn nnig; yr hwn yr oedd efe yu gwbl iach oddiwrtho, yn gyſtal yn ei gnawd ac yn ei Yſpryd. Efe a ddaeth i fod yn oen difry<g ref="char:EOLhyphen"/>cheulyd, yr hwn trwy ei aberthu ei hun un-waith, a ddeleai bechodau'r byd; a phechod (fel y dywaid S. <hi>Joan</hi>) nid oedd yntho ef. Eithr nyni bawb eraill (er ein bedyddio a'n ail-eni YngHriſt, ydym yn gwneuthur ar gam mewn llawer o bethau; ac os dywedwn ein bod heb pechod, yr ydym yn ein twyllo ein hunani, a'r gwirionedd nid yw ynom.</p>
+            </div>
+            <div n="16" type="article">
+               <head>16. Am bechod gwedi Bedydd.</head>
+               <p>NId yw pob pechod marwol a wneler o wirfoddgwedi Bedydd, yn bechod yn erbyn yr Yſprid glan, ac yn anfa<g ref="char:EOLhyphen"/>ddeuol. O herwydd pa ham, nid iawn naccau caniattad edifeirwch i'r ſawl a ſyrthiant mewn pechod yn ol bedydd. Gwedi darfod i in dderbyn yr Yſpryd glan, ni a allwn ym<g ref="char:EOLhyphen"/>madel oddiwrth y gras a roddwyd i ni, a ſyrthio mewn pechod; a thrwy Ras Duw (y gallwn) gyfodi drachfn a
+<pb facs="tcp:179775:4"/>
+gwellhau ein bucheddau. Am hynny‘ bid Condemno y rhai a ddywedant na allant bechu mwy yr rhyd y byddont byw ymma; neu a wadant nad oes lle i'r rhai a wir-edifarhao i gael maddeuant.</p>
+            </div>
+            <div n="17" type="article">
+               <head>17. Am Ragluniaeth ac Etholedigaeth.</head>
+               <p>RHagluniaeth i fywyd, yw tragywyddol arfaeth Duw; trwy'r hon (cyn goſod ſeiliau'r byd, (y darfu iddo trwy ei gyngor dirgel i nym, ddianwadal derfynu gwared oddiwrth felldith a damnedigaeth, y rhai a ddarfu iddo ddcthol yng<g ref="char:EOLhyphen"/>Hriſt o fyſc dynion, a'u dwyn trwy Ghriſt i dragywyddol Ie<g ref="char:EOLhyphen"/>chydwrtaeth; megis lleſtri wedi eu gwneuthur i anrhydedd. Gherwydd ya ham, y rhai a ddarfu i Dduw ea cynyſcaeddu a chyfryw ragorol ddawn, a alwyd yn ol arfaeth Duw trwy ei Yſpryd ef yn gweithio mewn pryd amſerol; hwynt-hwy ſydd trwy ras yn ufyddhau i'r galwedigaeth; hwynt-hwy a gyflawnheir yn rhad; hwynt-hwy a wneir yn feibion i Dduw trwy fabwys; hwynt-hwy a wneir yn gyffelyb i ddelw ei unig fab ef Ieſu Griſt; hwynt-hwy a rodiant yn grefyddol mewn gweithredoedd da; ac o'r diwedd trwy dru<g ref="char:EOLhyphen"/>garedd Duw y meddiannant ddedwyddyd tſagywyddol.</p>
+               <p>Megis y mae duwiol yſtyried rhaglumaeth Duw a'n hetho<g ref="char:EOLhyphen"/>ledigaeth ni yngHriſt, yn llawn melyſder a hyfrydwch, ac an-nhraethawl ddiddanwch i'r rhai duwiol, a chyfryw rai ac fydd yn clywed ynddynt eu humain weithrediad Yſpryd Chriſt, yn marwhau gweithredoedy cnawd a'u haelodau daiſarol, ac yn tynnu i fynu eu meddwl at uchel bethau nefol: yn gyſtal o blegid ei fod yn cadarnhau Iechydwriaeth dra<g ref="char:EOLhyphen"/>gywyddol trwy Griſt; ac o blegid ei fod yn gwreſog-ennyn<g ref="char:EOLhyphen"/>nu eu cariad hwy tuac at Dduw: felly i'r rhai cynnilgais a chnawdol, ſy heb Yſpryd Chriſt ganthynt, y mae iddynt fod a barn Rhagluniaeth Duw yn waſtadol ger bron eu lly<g ref="char:EOLhyphen"/>gaid, yn dramgwydd tra pherigl, trwy'r hwn mae diafol yn eu gwthio hwy naill ai i anobaith, ynteu i ddifrawch a<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>lanaf fuchedd, nid dim am-mherycclach nag anobaith.</p>
+               <p>Heb law hynny, mae'n rhaid i in dderbyn addewidion Duw, yn y cyfryw fodd ac y maent wedi eu gofod allan yn gyffredinol yn yr Scrythur lan: ac yn ein gweithredoed,
+<pb facs="tcp:179775:5" rendition="simple:additions"/>
+yr ewyllys hwnnw i Dduw ſydd raid ei ganlyn, yr hwn ſydd wedi ei egluro i ni yn amlwg yngair Duw.</p>
+            </div>
+            <div n="18" type="article">
+               <head>18. Am gaffael Jechydwriaeth dragywyddol yn unig trwy enw Chriſt.</head>
+               <p>Y Mae'n rhaid hefyd cyfrif yn felldigedig y ſawl a ryfygant ddywrdyd, y bydd cadwedig pob dyn trwy'r gyfraith, neu y rhith grefydd y mae yn ei broffeſſu, os efe a fydd diwyd i lunio ei fuchedd yn ol y gyfraith honno a goleuni natur. Canys y mae'r Scrythur lan, yn goſod allan i ni, yn unig Enw'r Ieſu Grift, trwy'r hwn y bydd rhaid i ddynion gael bod yn gadwedig.</p>
+            </div>
+            <div n="19" type="article">
+               <head>19. Am yr Eglwys.</head>
+               <p>GWeledig Cglwys Chriſt, yw cynnulleidfa y ffyddloni<g ref="char:EOLhyphen"/>on, yn yr hon y pregethir pur air Duw, ac y miniſtrir y Sacramentau yn ddyledus, yn ol ordinhad Chriſt, ym<g ref="char:EOLhyphen"/>mhob peth ac fydd augenrheidiol eu bod yn yr unrhyw.</p>
+               <p>Megis y cyfeiliornodd Eglwyſi <hi>Jeruſalem, Alexandria,</hi> ac <hi>Antiochia,</hi> felly hefyd y cyfeiliornodd Eglwys Rhufain; nid yn unig yn eu buchedd a modd eu Ceremoniau; eithr hefyd mewn matterion ffydd.</p>
+            </div>
+            <div n="20" type="article">
+               <head>20. Am awdurdodd yr Eglwys.</head>
+               <p>Y Mae i'r Eglwys allu i oſod deddfau a Ceremoniau, ac awdu<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>dod mewn amrafaelion ynghylch y ffydd; ac er hynny nid cyfreithlawn i'r Eglwys ordeinio dim ac fydd wrthwyneb i ſcrifennedig air Duw; ac nis gall felly eſponi un lle o'r Scrythur lan, fel y bo yn wrthwyneb i le arall. Am hynny, er bod yr Gglwys yn dyſt ac yn geidwad ar yr Scrythur; er hynny, megis nas dylei hi ordeinio dim yn erbyn yr Scrythur, felly heb law r unrhyw ni ddylei hi gym<g ref="char:EOLhyphen"/>mell credu dim er anghenrhaid i Iechydwriaeth.</p>
+            </div>
+            <div n="21" type="article">
+               <pb facs="tcp:179775:5"/>
+               <head>21. Am awdurdod Gymmanfau, neu Gyn<g ref="char:EOLhyphen"/>ghorau cyffredinol.</head>
+               <p>CYnghorau cyffredinol niſ gellir eu caſclu ynghyd heb orchymmyn ac ewyllys tywyſogion. Ac wedi eu caſclu ynghyd (yn gymmaint ac nad ydynt ond cynnulleidfa o ddy<g ref="char:EOLhyphen"/>nion, o'r rhai ni lywodraethir pawb gan Yſpryd a gair Duw,) hwy a allant gyfeiliorni, ac weithiau a ddarfu yddynt gyfei<g ref="char:EOLhyphen"/>liorni, a hynny mewn pethau a berthynant i Dduw. O herwydd pa ham, y pethau a ordeinier ganthynt megis yn anghenrhaid i Iechydwriaeth, nid oes iddynt na nerth nac awdurdod, onis gellir dangos darfod eu tynnu allan o'r Scry<g ref="char:EOLhyphen"/>thur lan.</p>
+            </div>
+            <div n="22" type="article">
+               <head>22. Am y Purdan.</head>
+               <p>YR athrawiaeth Rufeinaidd ynghylch Purdan, pardynau, anchydeddu ac addoli delwau a chreirisu, a hefyd galw a gweddio ar y Sainct, nid yw ond peth Yſmala, o wag ddy<g ref="char:EOLhyphen"/>chymmyg, ac heb iddo ſail ar u<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> warrant o'r Scrythur lan; ond yn hytrach ſydd wrthwyneb i air Duw.</p>
+            </div>
+            <div n="23" type="article">
+               <head>23. Am finiſtrio, neu weini yn y Gynnulleidfa.</head>
+               <p>NId cyfreithlawn i neb gymmeryd arno ſwydd pregethu ar gyhoedd, neu finiſtrio y Sacramentau yn y gynnul<g ref="char:EOLhyphen"/>leidfa, hyd oni alwer, ac oni dbanfoner ef yn gyfraithlawn i waſanaethu y ſwydd honno. A'r rhai hynny a ddylem ni farnu eu bod wedi eu galw a'u danfon yn gyfreithlon, y rhai a ddetholwyd ac a alwyd i'r gwaith hwn, gan ddynion a fo ac awdurdod cyhoedd wedi ei rhoddi iddynt yn y gynnulleidfa, i alw ac i ddanfon gweinidogion i winllan yr Arglwydd.</p>
+            </div>
+            <div n="24" type="article">
+               <pb facs="tcp:179775:6"/>
+               <head>24. Am lefaru yn y gynnulleidfa, yn y cyfryw dafod<g ref="char:EOLhyphen"/>iaith ac y bo'r bobl yn ei ddeall.</head>
+               <p>PEth llwyr wrthwyneb i air Duw ac i arfer yr hen Eglwys gynt, yw bod gweddi gyhoedd yn yr Eglwys, neu finiſtrio y Sacramentau mewn tafod-iaith ni bo'r bobl yn ei ddeall.</p>
+            </div>
+            <div n="25" type="article">
+               <head>25. Am y Sacramentau.</head>
+               <p>SAcramentau a ordeiniwyd gan Griſt, nid ydynt yn unig yn arwyddion, neu yn argoelion o broffeſs Criſtianogion: ond yn hytrach, rhyw ddiogel dyſtion a gweithredol arwyddi<g ref="char:EOLhyphen"/>on ydynt o ras ac o ewyllys da Duw tuac attom ni, trwy y rhai y mae efe yn gweithio yn anweledig ynom ni; ac nid yn unig yn bywhau, ond hefyd yn nerthau ac yn cadarnhau ein ffydd ni yntho ef.</p>
+               <p>Dau Sacrament y ſydd wedi eu hordeinio gan Griſt ein Harglwydd yn yr Efengyl, nid amgen na, Bedydd, a Swp<g ref="char:EOLhyphen"/>per yr Arglwydd.</p>
+               <p>Y pump hynny a elwir yn gyffredinol yn Sacramentau, ſef, Gonffirmaſion [neu fedydd Eſcob] Penyd, Vrddau, Pri<g ref="char:EOLhyphen"/>odas, ac Enneiniad, new'r Olew, nid ia<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n eu cyfrif yn Sa<g ref="char:EOLhyphen"/>cramentau'r Efengyl; eithr yn gyfryw ac a dyfaſant, peth o gam ddilyn yr Apoſtolion, ac o ran ydynt ſtat o fuchedd, y mae'r Scrythur lan yn eu eynnwys: ond er hynny nid oes ynddpnt gyffelyb natur Sacramedtau ac mewn Bedydd a Swpper yr Arglwydd; am nad oes ynddynt nac arwydd gweledig, na Ceremoni a ordeiniwyd gan dduw. Y Sa<g ref="char:EOLhyphen"/>cramentau ni ordeiniwyd gan Griſt flygadrythu arnynt, neu i'w dwyn oddi amgylch; ond er mwyn bod i ni eu dyledus arfer hwynt. Ac ynghyfryw rai yn unig ac fydd yn eu der<g ref="char:EOLhyphen"/>byn hwy yn deilwng, y mae iddynt effaith, neu weithrediad: ond yr rhai ſydd yn eu derbyn hwy yn an-heilwng, ſydd yn ynnill iddynt eu hunain ddamnedigaeth, fel y dywaid S. <hi>Paul.</hi>
+               </p>
+            </div>
+            <div n="26" type="article">
+               <pb facs="tcp:179775:6"/>
+               <head>26. Nad yw an-nheilyngdod y Gweinidogion yn rhwy<g ref="char:EOLhyphen"/>ſtro gweithrediad y Sacramentau.</head>
+               <p>ER bod yn yr Eglwys weledig bob amſer y rhai drwg 'ynghymmyſc a'r rhai da, a bod weithiau i'r rhai drwg yr audurdod pennaf yngweini dogaeth y gair a'r Sacramen<g ref="char:EOLhyphen"/>tau: etto yn gymmaint ac nad ydyut hwy yn gwneuthur hynny yn eu henw eu hunain, ond yn enw Chriſt, ac mai trwy ei Gommiſſiwn a'i awdurded ef y maent yn gweini; nyni a allwn dderbyn eu gweinidogaeth hwy trwy wrando'r Oair a thrwy dderbyn y Sacramentau. Ac nid yw eu han<g ref="char:EOLhyphen"/>wiredd hwy yn tynnu ymmaith ffrwyth ordinhad Chriſt; nac yn lleihau Gras doniau Duw oddiwrth y cyfryw rai ac ſydd trwy ffydd yn iawn-dderbyn y Sacramentau, a finiſtrir iddynt, y rhai ſy mewn ffrwyth o blegid goſodiad Chriſt a'i addewid, er bod yn eu miniſtrio gan ddynion drwg.</p>
+               <p>Er hynny i gyd, y mae yn perthyn i ddiſcyblaeth yr Eglwys, bod ymofyn am weinidogion drwg, a bod i'r rhai a fo yn gwybod eu beiau hwy, achwyn arnynt: ac o'r diwedd gwedi eu caffael yn evog trwy farn gyfiawn bod eu diſ<g ref="char:EOLhyphen"/>wyddo.</p>
+            </div>
+            <div n="27" type="article">
+               <head>27. Am Fedydd.</head>
+               <p>BEdydd nid yw yn unig yn arwydd o'n proffeſs ni; neu yn nod gwahaniaeth i adnabod Chriſtianogion oddiwrth era<g ref="char:EOLhyphen"/>ill ni wnaed yn Griſtianogion; eithr y mae hefyd yn arwydd o'r adgenedliad neu'r ail-enedigaeth; trwy'r hyn, megis trwy offeryn, yr impir yn yr Eglwys y rhai a dderbynniant fedydd yn iawn: yr arwyddir yn w<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ledig, ac y ſeilir trwy'r Yſpryd glan, yr addewidion am faddeuant pechodau, a'n ma<g ref="char:EOLhyphen"/>bwyſiad ninnau i fod yn feibion i Dduw: y cadarnheir ffydd: ac yr angwanegir gras trwy rinwedd gweddi at Dduw. Be<g ref="char:EOLhyphen"/>dydd plant ieuangc a ddyleid er dim ei gadw yn yr Eglwys, megis peth yn cwbl gyttuno ag ordeinhad Chriſt.</p>
+               <pb facs="tcp:179775:7"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb facs="tcp:179775:7"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb facs="tcp:179775:8"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb facs="tcp:179775:8"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+            </div>
+            <div n="28" type="article">
+               <pb facs="tcp:179775:9"/>
+               <head>28. Am Swpper yr Arglwydd.</head>
+               <p>SWpper yr Arglwydd nid yw yn unig yn arwydd o'r ca<g ref="char:EOLhyphen"/>riad a ddylei fod gan Griſtianogion i'w gilydd; ond yn hytrach Sacrament yw o'n prynnedigaeth ni trwy farwo<g ref="char:EOLhyphen"/>laeth Chriſt. Yn gymmaint ac i'r rhai a'i derbynniant yn iawn, yn deilwng, ac mewn ffydd, y bara yr ydym ni yn ei dorri ſydd gyfranogaeth Corph Chriſt; a'r un modd cwppan y fendith ſydd gyfranogaeth gwaed Chriſt.</p>
+               <p>Trawſylweddiad (neu newidiad ſylwedd y bara a'r gwin) yn Swpper yr Arglwydd, ni ellir ei brofi wrth yr Scrythur lan; ond y mae yn wrthwyneb i eglur eiriau'r Scrythur lan, yn dadymchwelyd naturiaeth Sacrament; ac a roddes ach<g ref="char:EOLhyphen"/>lyſur i lawer o ofergoelion.</p>
+               <p>Corph Chriſt a roddir, a dderhynnir, ac a fwyteir yn y Swpper, yn unig mewn modd nefol ac Yſprydol. A'r cy<g ref="char:EOLhyphen"/>frwng trwy'r hwn y derbynnir ac y bwyteir Corph Chriſt yn y Swpper, yw ffydd.</p>
+               <p>Sacrament Swpper yr Arglwydd wrth ordinhad Chriſt, ni roid i gadw, ni ddygyd oddiamgylch, ni dderchefid, nid addolid.</p>
+            </div>
+            <div n="29" type="article">
+               <head>29. Nad yw'r Annuwiol yn bwyta Corph Chriſt wrth arfer Swpper yr Arglwydd.</head>
+               <p>YR annuwiolion a chyfryw rai, ac nid oes ganddynt ffydd, er eu bod yn gnawdol ac yn weledig a'u dannedd yn enoi, (fel y dy waid S. <hi>Auguſtin</hi>) Sacrament Corph a gwaed Chriſt; er hynny nid ydynr hwy mewn modd yn y byd yn gyfran<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>gion o Ghriſt; ond yn hytrach i'w damnedigaeth eu hunain yn bwyta ac yn yfed arwydd neu Sacrament peth mor fa<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>or.</p>
+            </div>
+            <div n="30" type="article">
+               <head>30. Am y Ddau ryw.</head>
+               <p>Cwppan yr Arglwydd ni ddylid ei naccau i'r llygion bobl. Canys dwyran Sacrament yr Arglwydd, wrth orein<g ref="char:EOLhyphen"/>had
+<pb facs="tcp:179775:9"/>
+a gorchymmyn Chriſt, a ddylid eu miniſtrio i bod Chriſtion yn gyffelyb.</p>
+            </div>
+            <div n="31" type="article">
+               <head>31. Am un aberth Chriſt a gyflawnwyd ar y groes.</head>
+               <p>ABerthiad Ghriſt, yr hwn a wnaed unwaith, y ſydd berfaith brynedigaeth, boddhad, ac iawn tros holl be<g ref="char:EOLhyphen"/>chodeu'r holl fyd, yn gyſtal cynenid a gweithredol; ac nidoes iawn arall am bechod onid hwnnw, yn unig. O herwydd pa ham, nid oedd aberthau'r offerennau, y rhai yn gyffredin y dywedant fod yr Offeiriaid yn aberthu Chriſt ynddynt tros y byw ar mewn i gael maddevant am y goſp neu'c euogrwydd, onid thwedlau cabl a Siommedigaethau pe<g ref="char:EOLhyphen"/>ryglys.</p>
+            </div>
+            <div n="32" type="article">
+               <head>32. Am Briodas Offeiriaid.</head>
+               <p>EScobion, Offeiriaid, a Diaconiaid nid ynt wedi eu ger<g ref="char:EOLhyphen"/>chymmyn trwy gyfraith Dduw, nac i addunedu ſtat buchedd ſengl, nac i ymgadw rhac priodas, Am hynny mae'n gyfreith lawn iddynt hwythau, megis i bob Chriſtianogion eraill, wreicca yn ol eu deall eu hu<g ref="char:EOLhyphen"/>nain, fel y bo'nt hwy yn barnu fod y peth yn gwaſanaethu yn oreu i dduwioldeb.</p>
+            </div>
+            <div n="33" type="article">
+               <head>33. Am Ddynion a fo wedi eu heſcommuno, pa wedd a d'leid eu gochel.</head>
+               <p>Y Dyn trwy eglur gyhoeddiod yr Eglwys, y iawn dorrer ymmaith oddiwrth undeb yr Eglwys, ac a eſcommuner, a ddyleid ei gymmeryd gan holl liaws y ffyddloniaid, megis cenhedl-ddyn a Phublican, hyd oni chymmoder ef yn gy<g ref="char:EOLhyphen"/>hoedd trwy benyd, a'i dderbyn i'r Eglwys gan farnwr a fo iddo swdurdod i hynny.</p>
+               <pb facs="tcp:179775:10"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb facs="tcp:179775:10"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+            </div>
+            <div n="34" type="article">
+               <pb facs="tcp:179775:11"/>
+               <head>34. Am Draddodiadau'r Eglwys.</head>
+               <p>NId yw anghenrhaid bod traddodiadau a Ceremoniau ym-mhob lle yn yr un modd, neu yu gwbl gyffelyb; canys hwy a fuant bob amſer o amrafael fodd, ac a ellir eu newidio mewn amrafael wledydd, amferau ac arferau dyni<g ref="char:EOLhyphen"/>on, trwy na ordeinier dim yn erbyn Gair Duw. Pwy byn<g ref="char:EOLhyphen"/>nac wrth ei farn nailltuol ei hun, o'i fodd ac o'r gwaith god<g ref="char:EOLhyphen"/>def, yu gyhoeddys, a dorro draddodiadau a Ceremoniau'r Eglwys, y rhai nid ydynt wrthwyneb i air Duw, ac a ordei<g ref="char:EOLhyphen"/>niwyd ac a gynnhwyſwyd trwy awdurdod gyffredin; a ddylid ei geryddu yn gyhoeddus (fel y bo i eraill ofni gwneuthur y cyflelyb,) megis un yn gwneuthur yn erbyn trefn gyffredin yr Eglwys, ac yn briwo awdurdod y lywodraethwr, ac yn archolli cydwybodau y brodyr gweinion.</p>
+               <p>Y mae i Eglwys wahanol pob cenedl awdurdod i ordeinio, newidio, ac i ddyddymmu Ceremoniau neu gynneddfau'r Eglwys, y rhai a ordeiniwyd yn unic trwy awdurdoe dyn trwy fod gwneuthur pob peth er adeiladaeth.</p>
+            </div>
+            <div n="35" type="article">
+               <head>35. Am Homiliau.</head>
+               <p>YR ail llyfr o'r Homiliau, y rhai y darfu i ni gyſſylltu eu henwau gwahanredol tan yr Articul ymma, ſydd yn cynnwys dyſceidiaeth dduwiol, iachus, anghenrheidiol i'r am<g ref="char:EOLhyphen"/>ferau hyn, megis y mae'r llyfr cyntaf o'r Homiliau, y rhai a oſodwyd allau yn amſer <hi>Edward</hi> y chweched: am hynny yr ydym yn barnu fod eu darllein hwy yn yr Eglwyſi gan y Gweinidogion, yn ddieſceulus, ac yn llawnllythur, fel y gallo'r bobl eu deall.</p>
+               <list>
+                  <head>Am ennwau'r Homiliau.</head>
+                  <item>1. AM iawn-arfer yr Eglwys.</item>
+                  <item>2. Yn erbyn perigl delw-addoliad.</item>
+                  <item>
+                     <pb facs="tcp:179775:11"/>3. Am adgyweirio a chadw'n lan Eglwyſi.</item>
+                  <item>4. Am weithredodd da, ac yn gyntaf am Ym<g ref="char:EOLhyphen"/>prydio.</item>
+                  <item>5. Yn erbyn glothineb a Meddwdod.</item>
+                  <item>6. Yn erbyn Dillad rhy-wychion.</item>
+                  <item>7. Am weddi.</item>
+                  <item>8. Am le ac amſer Gweddi.</item>
+                  <item>9. Y dyleid miniſtrio Gweddi Gyffredin a'r Sacramen<g ref="char:EOLhyphen"/>tau mewn <gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>aith gydnabyddus.</item>
+                  <item>10. Am barchus gymmeriad Gair Duw.</item>
+                  <item>11. Am roi Eluſen.</item>
+                  <item>12. Am enedigaeth-Chriſt.</item>
+                  <item>13. Am ddioddefaint Chriſt.</item>
+                  <item>14. Am Adgyfodiad Chriſt.</item>
+                  <item>15. Am Deilwng dderbynniad Sacrament Corph a Gward Chriſt.</item>
+                  <item>16. Am Ddoniau'r Yſpryd Glan.</item>
+                  <item>17. Ar wythnos y Gweddiau.</item>
+                  <item>18. Am Stat Priodas.</item>
+                  <item>19. Am Edifeirwch</item>
+                  <item>20. Yn erbyn Seguryd.</item>
+                  <item>21. Yn erbyn Gwrthryfelgarwch.</item>
+               </list>
+            </div>
+            <div n="36" type="article">
+               <pb facs="tcp:179775:12"/>
+               <head>36. Am Gyſſegriad Eſcobion a Gweini<g ref="char:EOLhyphen"/>dogion.</head>
+               <p>LLyfr Cyſſegriad Archelcobion ac Eſcobion, ac Vrddiad Offeiriaid a Diaconiaid, yr hwn o ofodwyd allan yn ddiweddar, yn amſer <hi>Edward</hi> y chweched, ac y gadarn<g ref="char:EOLhyphen"/>hawyd yr un amſer trwy awdurdodd <hi>Parliament,</hi> ſydd yn cynnwys yntho bob peth angenrheidiol i gyfryw Gyffegriad ac Vrddtad: ac nid oes yntho ddim ac ſydd o hono ei hun yn ofergoelus, neu yn annuwiol. Ac am hynny pwy bynnac a gyſſegrwyd neu a Vrddwydd yn ol cynneddfau'r llyfrc hwnnw er yr ail flwyddyn o'r unrhyw frenin <hi>Edward</hi> hyd yr amſer ymma, neu yn ol hyn a gyffegrir neu a urddir yn ol yr unrhyw gynneddfau; yr ydym ni yn ordei<g ref="char:EOLhyphen"/>nio bod y cyfryw rai oll wedi eu cyſſegru a'u hurddo yn iawn, yn drefnus ac yn gyfreithlawn.</p>
+            </div>
+            <div n="37" type="article">
+               <head>37. Am Lywodraethwyr bydol.</head>
+               <p>MAwrhydi y Brenin ſydd iddo y gallu pennaf o fewn y deyrnas hon o Loegr ac eraill o'i Arglwyddiaethau; i'r hwn y perthyn y llywodraeth pennaf ar bob ſtat yn y deyrnas, pa un hynnac font ai Eglwyſic ai bydol ym-mhob ryw achoſion: ac nid yw, ac nis dylei fod yn ddaroſtyngedig in llywodraeth ddieithrol.</p>
+               <p>Le'r ydym yn rhai i fawrhydi y Brenin y llywodraeth pennaf, oblegid y rhyw enwau yr ydym yn deall fod med<g ref="char:EOLhyphen"/>dyliau rhyw bobl enllibus yn ymrwyſtro: nid ydym ni yn caniattau in tywyſogion na Gweinidogaeth gair Duw, na'r Sacramentau; yr hyn beth hefyd y mae'r <hi>Injunctions</hi> a oſodwyd allan gan y Frenhines <hi>Elizabeth</hi> yn gwbl eglur yn ei dyſtiolaethu: ond yr rhagorfraint hwnnw yn unic, yr
+<pb facs="tcp:179775:12"/>
+hwn yr ydym yn gweled fod yu ei roi bob amſer i bob tywyſagion Duwiol yn yr Scrythur lan gan Dduw ei hun, hynny yw, a dylent hwy lywodraethu ar bob Stat ac ar bob gradd a orchymynnwyd tan eu gefal hwy gan Dduw, pa un bynnac font ai Eglwyſic ai bydol, a choſtwyo a'r cled<g ref="char:EOLhyphen"/>dyf bydol y rhai cyndyn a'r drwgweithredwyr.</p>
+               <p>Nid oes i Eſcob <hi>Rhufain</hi> lywadraeth o fewn y deyrnas hon o Loegr.</p>
+               <p>Fe ddichon cyfreithiau y deyrnas goſpi Chriſtianogion ag angeu am feiau ſceler trymiou,</p>
+               <p>Y mae yn gyfreithlawn i Griſtianogion wrth orchym<g ref="char:EOLhyphen"/>myn y llywodraethwr, wiſco Arfan, a gwaſanaethu yn y rhyfel.</p>
+            </div>
+            <div n="38" type="article">
+               <head>38. Am olud Chriſtianogion, nad yw gyffredin.</head>
+               <p>GOlud a da Ghriſtianogion nid yw gyffredin o hrewydd eu cyfiawnder, a'u titl, a'u meddiant megis y mae rhyw Anabaptiſtiaid yn gwag-ymffroſt. Er hynny fe ddylei bob dyn o'r cyfryw bethau ac a fo ar ei elw, roi eluſen yn hae<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> i'r tlawd, yn ol ei allu.</p>
+            </div>
+            <div n="39" type="article">
+               <head>39. Am Lw Chriſtion.</head>
+               <p>MEgis yr ydym yn cyfaddef bod ofer dyngu ac afraid lyfau wedi eu gwahardd i Griſtianogion gan ein Harg<g ref="char:EOLhyphen"/>lwyddd Ieſu Chriſt a'i Apoſtol <hi>Jaco:</hi> felly yr ydym yu barnu nad yw Chriſtianogol grefydd yn gwahardd nas gall dyn dyngu pau fo'r llywodraethwr yn erchi, mewn matter o ffydd a Chariad perffaith, trwy fod gwneuthur hyn<g ref="char:EOLhyphen"/>ny
+<pb facs="tcp:179775:13"/>
+yn ol addyſc y Prhphwyd, mewn cyf<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>awnder, a barn, a gwiricnedd.</p>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="ratification">
+            <head>Y Sicerhad, neu y <hi>Ratification.</hi>
+            </head>
+            <p>Y Llyfr hwn o'r Articulau rhagddywededig a brifiwyd trachefn, ac a gynnhwyſwyd i'w gynnal a'i arfer o fewn y deyrnas, trwy gyttundeb a chydſyniad ein goruchaf Arglwyddes <hi>Elizabeth,</hi> trwy ras Duw Brenhines Lloeger, Ffrainc ac Iwerddon, ymddiffynferch y Hydd, <hi>&amp;c.</hi> A chwedi hynny trwy gydſyniad ein goruchaf Ar<g ref="char:EOLhyphen"/>glwydd Frenin JAMES, trwy ras Duw, Brenin Prudain fawr, Ffrainc ac Iwerddon, ymddiffyn<g ref="char:EOLhyphen"/>nydd y ffydd, <hi>&amp;c.</hi> Y rhyw Articulau a ddarllenn<g ref="char:EOLhyphen"/>wyd yn hamddenol, ac a gadarnhawyd trachefn tan ddwylaw yr Archeſcob a'r Eſcobion o'r ty uchaf, a than ddwylaw yr holl Eglwyſwyr o'r ty iſaf, yn eu Cymman<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>a hwy, yn y flwyddyn o oedran yr Arglwydd 1571. Ac yn gyffelyb yn y Gym<g ref="char:EOLhyphen"/>manfa a gynnhaliwyd yn y flwyddyn o oedran yr Arglwydd 16<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>4.</p>
+         </div>
+         <div type="table_of_contents">
+            <head>Y TABUL neu y dangoſeg.</head>
+            <list>
+               <item>
+                  <hi>1.</hi> AM ffydd yn y Drindod.</item>
+               <item>
+                  <hi>2.</hi> Am Griſt Mab Duw.</item>
+               <item>
+                  <pb facs="tcp:179775:13"/>
+                  <hi>3.</hi> Am ei ddiſcynniad i ufforn.</item>
+               <item>
+                  <hi>4.</hi> Am ei Adgyfodiad.</item>
+               <item>
+                  <hi>5.</hi> Am yr Yſpryd Glan.</item>
+               <item>
+                  <hi>6.</hi> Am Ddigonoldeb yr Scrythur lan.</item>
+               <item>
+                  <hi>7.</hi> Am yr Hen Deſtament.</item>
+               <item>
+                  <hi>8.</hi> Am y tair Credo.</item>
+               <item>
+                  <hi>9.</hi> Am bechod cynhwnol neu gynenid.</item>
+               <item>
+                  <hi>10.</hi> Am rydd ewyllys.</item>
+               <item>
+                  <hi>11.</hi> Am Gyfiawnhad.</item>
+               <item>
+                  <hi>12.</hi> Am Weithredoedd da.</item>
+               <item>
+                  <hi>13.</hi> Am weithredoedd o flaen Cyfiawnhad.</item>
+               <item>
+                  <hi>14.</hi> Am weithredoedd gydac a orchymynnwyd.</item>
+               <item>
+                  <hi>15.</hi> Am Griſt ei hun yn ddibechod.</item>
+               <item>
+                  <hi>16.</hi> Am bechod ar ol bedydd.</item>
+               <item>
+                  <hi>17.</hi> Am Raglumaeth ac Etholedigaeth.</item>
+               <item>
+                  <hi>18.</hi> Am fwynhau Jechydwriaeth trwy Griſt.</item>
+               <item>
+                  <hi>19.</hi> Am yr Eglwys.</item>
+               <item>
+                  <hi>20.</hi> Am Awdurdodd yr Eglwys.</item>
+               <item>
+                  <hi>21.</hi> Am awdurdod Gynghorau cyffredinol.</item>
+               <item>
+                  <hi>22.</hi> Am y Purdan.</item>
+               <item>
+                  <hi>23.</hi> Am finiſtrio yn y Gynnulleidfa.</item>
+               <item>
+                  <hi>24.</hi> Am lefaru yn y Gynnulleidfa.</item>
+               <item>
+                  <hi>25.</hi> Am y Sacramentau.</item>
+               <item>
+                  <hi>26.</hi> Am an-nheilyngdod y Gweinidogion.</item>
+               <item>
+                  <hi>27.</hi> Am y Bedydd.</item>
+               <item>
+                  <hi>28.</hi> Am Swpper yr Arglwydd.</item>
+               <item>
+                  <hi>29.</hi> Am yr annuwiol y rhai nid ynt yn bwyta Corph Griſt.</item>
+               <item>
+                  <hi>30.</hi> Am y Ddau ryw.</item>
+               <item>
+                  <hi>31.</hi> Am un Aberthiad Chriſt.</item>
+               <item>
+                  <hi>32.</hi> Am Briodas Offeiriaid.</item>
+               <item>
+                  <hi>33.</hi> Am ddynion a Eſcommunwyd.</item>
+               <item>
+                  <hi>34.</hi> Am Draddodiadau'r Eglwys.</item>
+               <item>
+                  <hi>35.</hi> Am yr Homiliau.</item>
+               <pb facs="tcp:179775:14"/>
+               <item>
+                  <hi>36.</hi> Am Gyſſegriad Gweinidogion.</item>
+               <item>
+                  <hi>37.</hi> Am Lywodraeth-wyr bydol.</item>
+               <item>
+                  <hi>38.</hi> Am olud Chriſtianogion.</item>
+               <item>
+                  <hi>39.</hi> Am Lw Chriflion.</item>
+               <item>Am Sicerhad yr Articulau hyn.</item>
+            </list>
+            <trailer>TERFYN.</trailer>
+            <pb facs="tcp:179775:14"/>
+         </div>
+      </back>
+   </text>
+</TEI>
